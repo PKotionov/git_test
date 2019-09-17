@@ -5,3 +5,5 @@ But then I spent so many nights thinking how you did me wrong,
 
 new commit
 and new line
+
+line to remove
