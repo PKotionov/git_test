@@ -3,3 +3,4 @@ branch
 master commit 4
 
 new branch commit 5 
+new branch commit 6
