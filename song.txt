@@ -15,3 +15,5 @@ master commit 2
 newbranch commit 1
 
 newbranch commit 2
+
+master commit 3
