@@ -17,3 +17,5 @@ newbranch commit 1
 newbranch commit 2
 
 master commit 3
+
+mater commit to rebase 1
