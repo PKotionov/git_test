@@ -7,3 +7,5 @@ new commit
 and new line
 
 line to remove
+
+master commit 1
